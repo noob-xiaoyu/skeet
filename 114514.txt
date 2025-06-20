@@ -1,1 +1,1 @@
-{ "hoshino", "//..11pp" },{ "user1", "password1" },{ "user2", "password2" }
+{"hoshino":"//..11pp", "user2":"password2"}
